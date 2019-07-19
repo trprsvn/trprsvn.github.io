@@ -7,6 +7,7 @@ block highlight
 ```ruby
 puts "hello world"
 puts "reversed".reverse
+puts "hello"
 ```
 
 > Block quote
